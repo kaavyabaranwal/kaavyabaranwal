@@ -1,6 +1,6 @@
 # Hi, I'm Kaavya #
 ### 👨🏻‍💻 About Me- ###
-- 👋 I’m Kaavya Baranwal, a keen learner
+- 👋 I’m Kaavya Baranwal, a keen learner.
 - 🎓 I'm currently studying Information Technology at the Jaypee Institute of Information Technology.
 - 👀 I’m interested in learning new programming languages and exploring new technologies.
 - 🌱 I’m currently learning Front-End Web Development and Data structure & algorithms
