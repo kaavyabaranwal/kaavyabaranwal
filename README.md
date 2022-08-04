@@ -8,7 +8,8 @@
 ### 🛠 Tech Stack- ###
 - `C++`  `C`
 - `HTML`  `CSS`
-- `SQL (familiar)`
+- `SQL (basics)`
+- `Photoshop (basics)`
 <!-- - 📫 How to reach me ...
  -->
 <!---
