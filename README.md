@@ -4,7 +4,7 @@
 - 🎓 I'm currently studying Information Technology at the Jaypee Institute of Information Technology.
 - 👀 I’m interested in learning new programming languages and exploring new technologies.
 - 🌱 I’m currently learning Front-End Web Development and Data structure & algorithms
-- 📫 Drop me a message at kaavya.bar@gmail.com . I'll try to respond as soon as I can !
+- 📫 Drop me a message at https://t.me/kaavya_baranwal or kaavya.bar@gmail.com . I'll try to respond as soon as I can !
 ### 🛠 Tech Stack- ###
 - `C++`  `C`
 - `HTML`  `CSS`
