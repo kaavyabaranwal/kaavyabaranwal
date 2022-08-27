@@ -7,7 +7,7 @@
 - 📫 Drop me a message on [Telegram](https://t.me/kaavya_baranwal) or mail me at kaavya.bar@gmail.com . I'll try to respond as soon as I can :)
 ### 🛠 Tech Stack- ###
 - `C++`  `C`
-- `HTML`  `CSS`
+- `HTML`  `CSS` `JavaScript`
 - `SQL (basics)`
 - `Photoshop (basics)`
 <!-- - 📫 How to reach me ...
