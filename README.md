@@ -10,6 +10,8 @@
 - `HTML`  `CSS` `JavaScript`
 - `SQL (basics)`
 - `Photoshop (basics)`
+#### Currently Learning - 
+`React JS`
 <!-- - 📫 How to reach me ...
  -->
 <!---
