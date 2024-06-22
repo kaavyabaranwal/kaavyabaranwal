@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2> Hi, I'm Kaavya Baranwal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Joining soon as SWE Intern at PayPal </br>Student at Jaypee Institute Of Information Technology, Noida (62)
+<p><em>SWE Intern at PayPal </br>Student at Jaypee Institute Of Information Technology, Noida (62)
 </em></p>
 
 
